@@ -1,0 +1,15 @@
+C:\Users\Sou\RiderProjects\Fabryka\SandwichProcessor\bin\Debug\net5.0\SandwichProcessor.deps.json
+C:\Users\Sou\RiderProjects\Fabryka\SandwichProcessor\bin\Debug\net5.0\SandwichProcessor.dll
+C:\Users\Sou\RiderProjects\Fabryka\SandwichProcessor\bin\Debug\net5.0\ref\SandwichProcessor.dll
+C:\Users\Sou\RiderProjects\Fabryka\SandwichProcessor\bin\Debug\net5.0\SandwichProcessor.pdb
+C:\Users\Sou\RiderProjects\Fabryka\SandwichProcessor\bin\Debug\net5.0\Common.dll
+C:\Users\Sou\RiderProjects\Fabryka\SandwichProcessor\bin\Debug\net5.0\Common.pdb
+C:\Users\Sou\RiderProjects\Fabryka\SandwichProcessor\obj\Debug\net5.0\SandwichProcessor.csproj.AssemblyReference.cache
+C:\Users\Sou\RiderProjects\Fabryka\SandwichProcessor\obj\Debug\net5.0\SandwichProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sou\RiderProjects\Fabryka\SandwichProcessor\obj\Debug\net5.0\SandwichProcessor.AssemblyInfoInputs.cache
+C:\Users\Sou\RiderProjects\Fabryka\SandwichProcessor\obj\Debug\net5.0\SandwichProcessor.AssemblyInfo.cs
+C:\Users\Sou\RiderProjects\Fabryka\SandwichProcessor\obj\Debug\net5.0\SandwichProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Sou\RiderProjects\Fabryka\SandwichProcessor\obj\Debug\net5.0\SandwichProcessor.csproj.CopyComplete
+C:\Users\Sou\RiderProjects\Fabryka\SandwichProcessor\obj\Debug\net5.0\SandwichProcessor.dll
+C:\Users\Sou\RiderProjects\Fabryka\SandwichProcessor\obj\Debug\net5.0\ref\SandwichProcessor.dll
+C:\Users\Sou\RiderProjects\Fabryka\SandwichProcessor\obj\Debug\net5.0\SandwichProcessor.pdb

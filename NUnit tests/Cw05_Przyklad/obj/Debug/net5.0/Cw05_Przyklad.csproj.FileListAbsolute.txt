@@ -1,0 +1,16 @@
+C:\Users\Sou\RiderProjects\Zadanie 5\Cw05_Przyklad\bin\Debug\net5.0\Cw05_Przyklad.exe
+C:\Users\Sou\RiderProjects\Zadanie 5\Cw05_Przyklad\bin\Debug\net5.0\Cw05_Przyklad.deps.json
+C:\Users\Sou\RiderProjects\Zadanie 5\Cw05_Przyklad\bin\Debug\net5.0\Cw05_Przyklad.runtimeconfig.json
+C:\Users\Sou\RiderProjects\Zadanie 5\Cw05_Przyklad\bin\Debug\net5.0\Cw05_Przyklad.runtimeconfig.dev.json
+C:\Users\Sou\RiderProjects\Zadanie 5\Cw05_Przyklad\bin\Debug\net5.0\Cw05_Przyklad.dll
+C:\Users\Sou\RiderProjects\Zadanie 5\Cw05_Przyklad\bin\Debug\net5.0\ref\Cw05_Przyklad.dll
+C:\Users\Sou\RiderProjects\Zadanie 5\Cw05_Przyklad\bin\Debug\net5.0\Cw05_Przyklad.pdb
+C:\Users\Sou\RiderProjects\Zadanie 5\Cw05_Przyklad\obj\Debug\net5.0\Cw05_Przyklad.csproj.AssemblyReference.cache
+C:\Users\Sou\RiderProjects\Zadanie 5\Cw05_Przyklad\obj\Debug\net5.0\Cw05_Przyklad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sou\RiderProjects\Zadanie 5\Cw05_Przyklad\obj\Debug\net5.0\Cw05_Przyklad.AssemblyInfoInputs.cache
+C:\Users\Sou\RiderProjects\Zadanie 5\Cw05_Przyklad\obj\Debug\net5.0\Cw05_Przyklad.AssemblyInfo.cs
+C:\Users\Sou\RiderProjects\Zadanie 5\Cw05_Przyklad\obj\Debug\net5.0\Cw05_Przyklad.csproj.CoreCompileInputs.cache
+C:\Users\Sou\RiderProjects\Zadanie 5\Cw05_Przyklad\obj\Debug\net5.0\Cw05_Przyklad.dll
+C:\Users\Sou\RiderProjects\Zadanie 5\Cw05_Przyklad\obj\Debug\net5.0\ref\Cw05_Przyklad.dll
+C:\Users\Sou\RiderProjects\Zadanie 5\Cw05_Przyklad\obj\Debug\net5.0\Cw05_Przyklad.pdb
+C:\Users\Sou\RiderProjects\Zadanie 5\Cw05_Przyklad\obj\Debug\net5.0\Cw05_Przyklad.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Sou\RiderProjects\Fabryka\BeerProcessor\bin\Debug\net5.0\BeerProcessor.deps.json
+C:\Users\Sou\RiderProjects\Fabryka\BeerProcessor\bin\Debug\net5.0\BeerProcessor.dll
+C:\Users\Sou\RiderProjects\Fabryka\BeerProcessor\bin\Debug\net5.0\ref\BeerProcessor.dll
+C:\Users\Sou\RiderProjects\Fabryka\BeerProcessor\bin\Debug\net5.0\BeerProcessor.pdb
+C:\Users\Sou\RiderProjects\Fabryka\BeerProcessor\bin\Debug\net5.0\Common.dll
+C:\Users\Sou\RiderProjects\Fabryka\BeerProcessor\bin\Debug\net5.0\Common.pdb
+C:\Users\Sou\RiderProjects\Fabryka\BeerProcessor\obj\Debug\net5.0\BeerProcessor.csproj.AssemblyReference.cache
+C:\Users\Sou\RiderProjects\Fabryka\BeerProcessor\obj\Debug\net5.0\BeerProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sou\RiderProjects\Fabryka\BeerProcessor\obj\Debug\net5.0\BeerProcessor.AssemblyInfoInputs.cache
+C:\Users\Sou\RiderProjects\Fabryka\BeerProcessor\obj\Debug\net5.0\BeerProcessor.AssemblyInfo.cs
+C:\Users\Sou\RiderProjects\Fabryka\BeerProcessor\obj\Debug\net5.0\BeerProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Sou\RiderProjects\Fabryka\BeerProcessor\obj\Debug\net5.0\BeerProcessor.csproj.CopyComplete
+C:\Users\Sou\RiderProjects\Fabryka\BeerProcessor\obj\Debug\net5.0\BeerProcessor.dll
+C:\Users\Sou\RiderProjects\Fabryka\BeerProcessor\obj\Debug\net5.0\ref\BeerProcessor.dll
+C:\Users\Sou\RiderProjects\Fabryka\BeerProcessor\obj\Debug\net5.0\BeerProcessor.pdb

@@ -1,0 +1,16 @@
+C:\Users\Sou\RiderProjects\Fabryka\Fabryka\bin\Debug\net5.0\Fabryka.exe
+C:\Users\Sou\RiderProjects\Fabryka\Fabryka\bin\Debug\net5.0\Fabryka.deps.json
+C:\Users\Sou\RiderProjects\Fabryka\Fabryka\bin\Debug\net5.0\Fabryka.runtimeconfig.json
+C:\Users\Sou\RiderProjects\Fabryka\Fabryka\bin\Debug\net5.0\Fabryka.runtimeconfig.dev.json
+C:\Users\Sou\RiderProjects\Fabryka\Fabryka\bin\Debug\net5.0\Fabryka.dll
+C:\Users\Sou\RiderProjects\Fabryka\Fabryka\bin\Debug\net5.0\ref\Fabryka.dll
+C:\Users\Sou\RiderProjects\Fabryka\Fabryka\bin\Debug\net5.0\Fabryka.pdb
+C:\Users\Sou\RiderProjects\Fabryka\Fabryka\obj\Debug\net5.0\Fabryka.csproj.AssemblyReference.cache
+C:\Users\Sou\RiderProjects\Fabryka\Fabryka\obj\Debug\net5.0\Fabryka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sou\RiderProjects\Fabryka\Fabryka\obj\Debug\net5.0\Fabryka.AssemblyInfoInputs.cache
+C:\Users\Sou\RiderProjects\Fabryka\Fabryka\obj\Debug\net5.0\Fabryka.AssemblyInfo.cs
+C:\Users\Sou\RiderProjects\Fabryka\Fabryka\obj\Debug\net5.0\Fabryka.csproj.CoreCompileInputs.cache
+C:\Users\Sou\RiderProjects\Fabryka\Fabryka\obj\Debug\net5.0\Fabryka.dll
+C:\Users\Sou\RiderProjects\Fabryka\Fabryka\obj\Debug\net5.0\ref\Fabryka.dll
+C:\Users\Sou\RiderProjects\Fabryka\Fabryka\obj\Debug\net5.0\Fabryka.pdb
+C:\Users\Sou\RiderProjects\Fabryka\Fabryka\obj\Debug\net5.0\Fabryka.genruntimeconfig.cache
